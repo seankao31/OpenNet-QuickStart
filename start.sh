@@ -31,3 +31,6 @@ done
 echo
 echo "Now you can manually open OpenNet :)"
 
+#echo "OpenNet ..."
+#gnome-terminal -e "sudo mn --topo=tree,2 --controller=remote"
+
