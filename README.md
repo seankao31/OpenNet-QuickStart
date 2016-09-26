@@ -19,14 +19,10 @@
 
 它呆呆的，不會判斷該何時做下一件事，你必須自己告訴它。
 
- 
- 
-
 有時候你必須要把OpenNet關掉，那……就exit吧。
 
-你可以回到一開始執行start.sh的那個terminal再開一次OpenNet。
+你可以另外開一個terminal再開一次OpenNet。
 
- 
 
 ## 後話
 
