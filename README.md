@@ -1,10 +1,12 @@
 # OpenNet-QuickStart
 
-此script乃為ICN課程project而生
+本script乃為了曾教授ICN課程的project而生。
 
 在開OpenNet之前，要另外開三個terminal分別下三道指令，好麻煩。
 
 於是把它們寫成了這個陽春的script。
+
+說是QuickStart，其實它一點都不quick，只是有點方便。
 
 ## 怎麼用
 
