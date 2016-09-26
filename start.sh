@@ -29,6 +29,5 @@ while [[ ! $REPLY =~ ^[Yy]$ ]]; do
 done
 
 echo
-echo "OpenNet ..."
-gnome-terminal -e "sudo mn --topo=tree,2 --controller=remote"
+echo "Now you can manually open OpenNet :)"
 
