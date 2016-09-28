@@ -2,7 +2,7 @@
 
 本script乃為了曾教授ICN課程的project而生。
 
-在開OpenNet之前，要另外開三個terminal分別下三道指令，好麻煩。
+在開OpenNet之前，要另外開三個terminal分別下三道指令，很不方便。
 
 於是把它們寫成了這個陽春的script。
 
